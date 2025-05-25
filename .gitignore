@@ -172,3 +172,15 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Other
+anaconda_projects/
+.virtual_documents/
+
+# .mp4
+**/*.mp4
+
+# yolov8n
+yolov8n-seg.pt
+yolov8n.pt
+
