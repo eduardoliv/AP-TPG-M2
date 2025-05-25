@@ -184,3 +184,5 @@ anaconda_projects/
 yolov8n-seg.pt
 yolov8n.pt
 
+# JSON Files
+Task3/outputs/*.json
